@@ -23,7 +23,6 @@ const App = () => {
           <div>
             <h3>$220/hour</h3>
             <p> new york, USA </p>
-
           </div>
           <button>apply now </button>
         </div>
@@ -32,5 +31,5 @@ const App = () => {
     </div>
   )
 }
-
+<p> hello </p>
 export default App
